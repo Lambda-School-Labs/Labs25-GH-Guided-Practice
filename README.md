@@ -1,3 +1,5 @@
+### Michelle Hottinger
+
 # Labs Github Flow
 
 - The following is a guided project that will help you understand the git work flow that we use in Lambda Labs.

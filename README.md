@@ -32,7 +32,7 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 3️⃣:** Now that you have created your branch you're ready to work on the repo. Our task for the day is to have you add your name to the list below (**note** the semantically chosen branch name you created coincides with the task at hand) the `### Your name` heading in this README.md file.
 - **Step 4️⃣:** Run your typical staging, commit and publish commands:
   - `git status` , `git add <file-name>` , `git commit -m 'your message'` , `git push origin <branch-name>`.
-  - 💥**note:** you're pushing to your branch NOT to the main branch. (VERY IMPORTANT)💥
+  - 💥**note:** you're pushing to your branch NOT to the main branch. (!!VERY IMPORTANT!!)💥
 - **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origin main` **but make sure you're on your branch first** `git branch`.
 - **Step 6️⃣:** Resolve any merge conflicts.
   - You may see a merge conflict that looks something like this:
@@ -46,5 +46,3 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 - **Step 8️⃣:** Delete your branch!!!!!!!! ␡ Nothing is worse than having a dozen or so stale branches in your repositories. This can be one of the first things you and your teams do together.
   - ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
-
-### Bernie Durfee

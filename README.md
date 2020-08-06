@@ -4,7 +4,7 @@
 
 ## Description
 
-- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, commiting, pushing and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
+- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, committing, pushing and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
 
 ## Purpose
 
@@ -47,5 +47,9 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 8️⃣:** Delete your branch!!!!!!!! ␡ Nothing is worse than having a dozen or so stale branches in your repositories. This can be one of the first things you and your teams do together.
   - ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
 
+
 ### Your Name
 marc tapp
+
+### Drew Hoffmann
+

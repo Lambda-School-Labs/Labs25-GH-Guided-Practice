@@ -57,11 +57,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Tanner Williams
 
-Miriam Ali
-
 ### Your Name
 marc tapp
 
 ### Drew Hoffmann
 
-
+Miriam Ali

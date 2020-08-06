@@ -19,6 +19,8 @@
   - You will be able to resolve any _merge conflicts_ that come up.
   - You will be able to delete a feature branch.
 
+  - This is a test for sample github flow
+
 ## Introduction
 
 The following is a list of steps and instructions on how to complete this guided project.

@@ -46,3 +46,7 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 - **Step 8️⃣:** Delete your branch!!!!!!!! ␡ Nothing is worse than having a dozen or so stale branches in your repositories. This can be one of the first things you and your teams do together.
   - ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
+
+## Your name
+
+Axel Corro

@@ -1,17 +1,13 @@
 # Labs Github Flow
-
 - The following is a guided project that will help you understand the git work flow that we use in Lambda Labs.
 
 ## Description
-
 - Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, commiting, pushing and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
 
 ## Purpose
-
 - Knowing a team work flow using Git/GitHub is absolutely vital for you to succeed as a tech professional. That is the purpose of this exercise.
 
 ## Objectives
-
 - By the end of this guided project you will have demonstrated the following:
   - You will be able to create a _branch_ off of the **main** branch of a repository.
   - You will be able to submit a _pull-request_ from your feature branch onto the **main** branch.
@@ -20,7 +16,6 @@
   - You will be able to delete a feature branch.
 
 ## Introduction
-
 The following is a list of steps and instructions on how to complete this guided project.
 
 - **Step 1️⃣:** Clone this repository by clicking the green **Clone or Download** button in the top right.
